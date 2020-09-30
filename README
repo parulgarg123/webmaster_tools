@@ -6,7 +6,7 @@ WebmasterTools is a plugin that covers helps webmasters manage their sites with 
 * Sitemaps - Generate valid XML sitemaps for your models, and add your own static sitemaps
 * GoogleSitemapGenerator - Use a rake task to use the google_sitemap_gen tool to generate xml sitemaps for static files
 
-== WebmasterVerification
+== Webmaster Verification
 
 This plugin adds support for Google, Yahoo! and Live webmaster tool authorization 
 for multiple webmasters.
@@ -33,7 +33,7 @@ restart the server (the yaml config is not cached).
 
 == Installation
 
-Via git:
+Via git cli:
 
   git clone git://github.com/zilkey/webmaster_tools.git vendor/plugins/webmaster_tools
 
